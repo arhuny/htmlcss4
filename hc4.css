@@ -1,0 +1,72 @@
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: rgb(217, 221, 220);
+}
+
+.a {
+    width: 1200px;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding-top: 0%;
+}
+
+.b {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+header {
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 10%;
+    padding-top: 1%;
+    background-color: rgb(16, 160, 117);
+}
+
+.header_logo {
+    width: 45px;
+    margin-left: 6%;
+    margin-top: 7px;
+    padding-top: 7px;
+}
+
+.logo {
+    margin-left: 7px;
+    margin-top: 2%;
+    font-size: 15px;
+    font-style: oblique;
+    color: white;
+}
+
+
+.c1 {
+    width: 35%;
+    margin-left: 25%;
+    margin-right: 5%;
+    margin-bottom: 10%;
+}
+.c1 h {
+    font-size: 30px;
+}
+
+.c1 h4 {
+    font-size: 15px;
+    color: rgb(32, 71, 5);
+}
+.c2 img{
+    width: 230px;
+    margin: auto;
+}
+
+.c3 video{
+    width: 100%;
+    margin-left: 70%;
+    margin-right: 35%;
+}
+
+.c2 h4 {
+    font-size: 15px;
+    color: black;
+    text-align: center;
+}
+
